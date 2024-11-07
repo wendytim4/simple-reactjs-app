@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /home/ubuntu/my-app/rp-medium-react
+    destination: /home/ubuntu/my-app/simple-reactjs-app
     overwrite: true
 file_exists_behavior: OVERWRITE
 
